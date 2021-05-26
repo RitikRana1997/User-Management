@@ -1,6 +1,0 @@
-LogIn
-
-
-Firstname
-Secondname
-Dob
